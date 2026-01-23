@@ -41,4 +41,5 @@ public class FlowerBloom extends JPanel {
         frame.add(panel);
         frame.setVisible(true);
     }
+
 }
