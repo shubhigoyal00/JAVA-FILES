@@ -13,3 +13,4 @@ public class IsAliveExample {
         System.out.println("Thread is alive after join? " + t1.isAlive());
     }
 }
+
